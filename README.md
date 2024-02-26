@@ -15,6 +15,8 @@ A powerful simulation environment is absolutely necessary for efficient developm
 # Bilder
 ![image](https://github.com/KaanAyd/Studienarbeit2024/assets/155579622/ca1233b0-3bb6-48b8-a9b3-3a99bc323834)
 
+![image](https://github.com/KaanAyd/Studienarbeit2024/assets/155579622/d83110dc-b74d-425c-b03f-7402efd7a319)
+
 --------------
 
 # Kontakt
