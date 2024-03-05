@@ -1,7 +1,7 @@
 # Weiterentwicklung der Simulationswerkzeuges für die Entwicklung autonomer Modellfahrzeuge
 Im Rahmen des ZF-DHBW Innovation Labs entsteht eine Kleinflotte von Modellfahrzeugen zum Test von Funktionen und Komponenten des assistierten und autonomen Fahrens (ADAS).
 
-Zur effizienten Entwicklung und Test der Komponenten ist eine leistungsfähige Simulationsumgebung unbedingt erforderlich. Im Rahmen mehrerer Studien-arbeiten wurden bereits Umgebungssimulationen mit IPG Truck Maker aufgebaut. Diese sollen nun um zusätzliche Funktionen und Schnittstellen erweitert und für die Entwicklung der autonomen Funktionen eingesetzt werden.
+Zur effizienten Entwicklung und Test der Komponenten ist eine leistungsfähige Simulationsumgebung unbedingt erforderlich. Im Rahmen mehrerer Studienarbeiten wurden bereits Umgebungssimulationen mit IPG Truck Maker aufgebaut. Diese sollen nun um zusätzliche Funktionen und Schnittstellen erweitert und für die Entwicklung der autonomen Funktionen eingesetzt werden.
 
 --------------
 
