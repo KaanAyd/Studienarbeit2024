@@ -18,7 +18,7 @@ A powerful simulation environment is absolutely necessary for efficient developm
 
 ![image](https://github.com/KaanAyd/Studienarbeit2024/assets/155579622/4305133a-e0ca-409c-8184-c26b5f4b61d7)
 
-[Quelle: Nutzfahrzeug-Messe NUFAM, Karlsruhe, 29./30.09.2021]
+[Quelle: Nutzfahrzeug-Messe NUFAM, Karlsruhe, 29.09. - 30.09.2021]
 
 --------------
 
