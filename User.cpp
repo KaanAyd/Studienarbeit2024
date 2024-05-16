@@ -560,7 +560,7 @@ void lidar_publisher(void){
 	double *intensities = new double[num_scanpoints];
 
 
-	for(size_t i = 0; i < num_scanpoints/4; ++i){
+	for(size_t i = 0; i < num_scanpoints; ++i){
 		ranges[i] = (((LidarRSI->ScanPoint[i].TimeOF)/2)*0.3);
 		intensities[i] = LidarRSI->ScanPoint[i].Intensity;
 	}
@@ -589,10 +589,10 @@ void lidar_publisher(void){
         	scan.range_min = range_min;
 		scan.range_max = range_max;
 
-		scan.ranges.resize(num_scanpoints/4);
-		scan.intensities.resize(num_scanpoints/4);
+		scan.ranges.resize(num_scanpoints);
+		scan.intensities.resize(num_scanpoints);
 
-		for(uint64_t i = 0; i < num_scanpoints/4; ++i){
+		for(uint64_t i = 0; i < num_scanpoints; ++i){
 			scan.ranges[i] = ranges[i];
 			scan.intensities[i] = intensities[i];
 		}
